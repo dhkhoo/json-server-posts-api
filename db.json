@@ -1,66 +1,36 @@
 {
-  "posts": [
-    {
-      "id": "0",
-      "title": "Post 0",
-      "body": "Body 0",
-      "userId": "0"
-    },
-    {
-      "id": "1",
-      "title": "Post 1",
-      "body": "Body 1",
-      "userId": "1"
-    },
-    {
-      "id": "2",
-      "title": "Post 2",
-      "body": "Body 2",
-      "userId": "1"
-    },
-    {
-      "id": "3",
-      "title": "Post 3",
-      "body": "Body 3",
-      "userId": "1"
-    },
-    {
-      "id": "4",
-      "title": "Post 4",
-      "body": "Body 4",
-      "userId": "0"
-    }
-  ],
-  "comments": [
-    {
-      "id": "0",
-      "body": "Comment 0",
-      "postId": "0"
-    },
-    {
-      "id": "1",
-      "body": "Comment 1",
-      "postId": "1"
-    },
-    {
-      "id": "2",
-      "body": "Comment 2",
-      "postId": "1"
-    },
-    {
-      "id": "3",
-      "body": "Comment 3",
-      "postId": "0"
-    }
-  ],
-  "users": [
-    {
-      "id": "0",
-      "name": "David Tang"
-    },
-    {
-      "id": "1",
-      "name": "Patrick Dent"
-    }
-  ]
-}
+    "products": [
+      {
+        "id": "0",
+        "price":"23.00",
+        "dateAdded":"2022-10-22",
+        "brand":"stila",
+        "productName":"Stay All Day Waterproof Liquid Eyeliner",
+        "description":"black",
+        "link":"https://www.sephora.com/product/stay-all-day-waterproof-liquid-eye-liner-P253818",
+        "varient":"liquid eyeliner",
+        "notes":"very good so far",
+        "dateOpened":"2022-10-22",
+        "expiryLength":"12 months"
+      },
+      {
+        "id": "1",
+        "price":"5.66",
+        "dateAdded":"2022-10-22",
+        "brand":"Juicy Pang",
+        "productName":"Water Blusher",
+        "varient":"Grapefruit",
+        "notes":"",
+        "link":"https://www.yesstyle.com/en/apieu-juicy-pang-water-blusher-12-colors-pk04-grapefruit/info.html/pid.1064442415?cpid=1068321284",
+        "type":"liquid eyeliner",
+        "dateOpened":"NULL",
+        "expiryLength":"12 months"
+      }
+    ],
+    "favorites": [
+        {
+            "productID":"0",
+            "dateFavorited":"2022-10-22"
+        }
+    ]
+  }

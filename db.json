@@ -3,27 +3,27 @@
       {
         "id": "0",
         "price":"23.00",
-        "dateAdded":"2022-10-22",
+        "dateAdded":"10-22-2022",
         "brand":"stila",
         "productName":"Stay All Day Waterproof Liquid Eyeliner",
         "variant":"black",
         "link":"https://www.sephora.com/product/stay-all-day-waterproof-liquid-eye-liner-P253818",
-        "image-link":"https://www.sephora.com/productimages/sku/s1221084-main-zoom.jpg?imwidth=612",
+        "imageLink":"https://www.sephora.com/productimages/sku/s1221084-main-zoom.jpg?imwidth=612",
         "type":"Eye",
         "notes":"very good so far",
-        "dateOpened":"2022-10-22",
+        "dateOpened":"10-22-2022",
         "expiryLength":"12 months"
       },
       {
         "id": "1",
         "price":"5.66",
-        "dateAdded":"2022-10-22",
+        "dateAdded":"10-22-2022",
         "brand":"Juicy Pang",
         "productName":"Water Blusher",
         "variant":"Grapefruit",
         "notes":"",
         "link":"https://www.yesstyle.com/en/apieu-juicy-pang-water-blusher-12-colors-pk04-grapefruit/info.html/pid.1064442415?cpid=1068321284",
-        "image-link":"https://d1flfk77wl2xk4.cloudfront.net/Assets/GalleryImage/71/028/L_g0157602871.jpg",
+        "imageLink":"https://d1flfk77wl2xk4.cloudfront.net/Assets/GalleryImage/71/028/L_g0157602871.jpg",
         "type":"Cheek",
         "dateOpened":"NULL",
         "expiryLength":"12 months"
@@ -32,7 +32,7 @@
     "favorites": [
         {
             "productID":"0",
-            "dateFavorited":"2022-10-22"
+            "dateFavorited":"10-22-2022"
         }
     ]
   }
